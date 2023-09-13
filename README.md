@@ -29,6 +29,6 @@ Here are some of my notable projects:
 
 ## Support
 
-If you find my work interesting or useful, consider supporting me by [buying me a coffee](Link to Buy Me a Coffee) ☕️.
+If you find my work interesting or useful, consider supporting me by [buying me a coffee](https://saweria.co/dedypuji) ☕️.
 
 Thanks for visiting! 😊
