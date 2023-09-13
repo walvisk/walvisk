@@ -6,13 +6,22 @@ I'm a passionate Software Crafter from Indonesia. Welcome to my GitHub profile! 
 
 Here are some of my notable projects:
 
-- [Exceller](https://github.com/walvisk/exceller)): A simple xlsx writer report
+- [Exceller](https://github.com/walvisk/exceller): A simple xlsx writer report
 - [BagiJuz](https://github.com/walvisk/bagijuz):  a tool to facilitate the distribution of reading Al-Qur'an in groups
 
 ## Skills
 
 - 💻 Programming Languages: Go, Ruby, Javascript, Elixir
 - 🌐 Web Development: Ruby on Rails, Mux, NodeJS, Koa
+
+## Currently Learning
+- Go
+- Elixir
+- Algorithm
+
+## Near Further Targets
+- Join 100 days of code challange with Elixir
+- Hacktoberfest 2023
 
 ## Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/dedy-puji-jayanto-209761107/)
