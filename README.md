@@ -16,12 +16,10 @@ Here are some of my notable projects:
 
 ## Currently Learning
 - Go
-- Elixir
 - Algorithm
 
-## Near Further Targets
-- Join 100 days of code challange with Elixir
-- Hacktoberfest 2023
+## Current Project
+- Bahasa Indonesia translation for https://github.com/ardanlabs/gotour
 
 ## Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/dedy-puji-jayanto-209761107/)
