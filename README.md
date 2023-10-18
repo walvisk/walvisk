@@ -11,12 +11,13 @@ Here are some of my notable projects:
 
 ## Skills
 
-- 💻 Programming Languages: Go, Ruby, Javascript, Elixir
+- 💻 Programming Languages: Go, Ruby, Javascript
 - 🌐 Web Development: Ruby on Rails, Mux, NodeJS, Koa
 
 ## Currently Learning
-- Go
 - Algorithm
+- Re-Learning Ruby
+- Go
 
 ## Current Project
 - Bahasa Indonesia translation for https://github.com/ardanlabs/gotour
