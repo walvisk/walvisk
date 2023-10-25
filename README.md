@@ -16,7 +16,8 @@ Here are some of my notable projects:
 
 ## Currently Learning
 - Algorithm
-- Re-Learning Ruby
+- Ruby
+- C
 - Go
 
 ## Current Project
