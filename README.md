@@ -26,7 +26,7 @@ Here are some of my notable projects:
 ## Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/dedy-puji-jayanto-209761107/)
 - 🐦 [Twitter](https://twitter.com/pujidjayanto)
-
+- 🌐 [Top 30% Contributor 2023 on Stack Overflow](https://stackoverflow.com/users/9446028/walvisk)
 ## Support
 
 If you find my work interesting or useful, consider supporting me by [buying me a coffee](https://saweria.co/dedypuji) ☕️.
