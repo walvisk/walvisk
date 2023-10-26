@@ -24,7 +24,7 @@ Here are some of my notable projects:
 - Bahasa Indonesia translation for https://github.com/ardanlabs/gotour
 
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walvisk)](https://github.com/walvisk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walvisk)]
 
 ## Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/dedy-puji-jayanto-209761107/)
