@@ -11,8 +11,10 @@ Here are some of my notable projects:
 
 ## Skills
 
-- 💻 Programming Languages: Go, Ruby, Javascript
-- 🌐 Web Development: Ruby on Rails, Mux, NodeJS, Koa
+- Programming Languages: Go, Ruby, Javascript, C, Elixir
+- Web Development: Ruby on Rails, Mux, NodeJS, Koa
+- Database: PostgreSQL, MySQL, Redis
+- Tools: Docker, Kubernetes, Postman, Retool
 
 ## Currently Learning
 - Algorithm
