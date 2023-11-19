@@ -11,19 +11,18 @@ Here are some of my notable projects:
 
 ## Skills
 
-- Programming Languages: Go, Ruby, Javascript, C, Elixir
+- Programming Languages: Go, Ruby, Javascript, C
 - Web Development: Ruby on Rails, Mux, NodeJS, Koa
 - Database: PostgreSQL, MySQL, Redis
 - Tools: Docker, Kubernetes, Postman, Retool
 
 ## Currently Learning
-- Algorithm
-- Ruby
-- C
-- Go
+- Ruby rack
+- Golang from gotour
 
 ## Current Project
 - Bahasa Indonesia translation for https://github.com/ardanlabs/gotour
+- [A todo web API using rack](https://github.com/walvisk/todork)
 
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walvisk)
