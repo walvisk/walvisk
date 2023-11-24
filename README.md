@@ -16,13 +16,8 @@ Here are some of my notable projects:
 - Database: PostgreSQL, MySQL, Redis
 - Tools: Docker, Kubernetes, Postman, Retool
 
-## Currently Learning
-- Ruby rack
-- Golang from gotour
-
 ## Current Project
 - Bahasa Indonesia translation for https://github.com/ardanlabs/gotour
-- [A todo web API using rack](https://github.com/walvisk/todork)
 
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walvisk)
