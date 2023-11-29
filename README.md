@@ -1,6 +1,6 @@
 # Hello, I'm Dedy 👋
 
-I'm a passionate Software Crafter from Indonesia. Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions. Feel free to explore and connect with me.
+A Software Crafter from Indonesia. Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions. Feel free to explore and connect with me.
 
 ## Projects
 
