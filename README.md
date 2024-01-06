@@ -42,6 +42,7 @@ Here are some of my projects:
 
 - [Exceller](https://github.com/walvisk/exceller): A simple xlsx writer report
 - [BagiJuz](https://github.com/walvisk/bagijuz):  a tool to facilitate the distribution of reading Al-Qur'an in groups
+- [MINIURL](https://github.com/walvisk/miniurl): URL Shortener alternative using Ruby on Rails
 
 
 ## Current
