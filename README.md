@@ -44,8 +44,6 @@ Here are some of my projects:
 
 ## Current
 - OSS Contribution: Bahasa Indonesia translation for https://github.com/ardanlabs/gotour
-- Reading: Rebuilding Rails by Noah Gibbs (https://noahgibbs.gumroad.com/l/rebuilding_rails)
-- Course: Fullstack Open by University of Helsinki (https://fullstackopen.com/en/)
 
 
 ## Connect with Me
